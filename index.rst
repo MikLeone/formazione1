@@ -12,4 +12,4 @@ Nel Capitolo 2 vengono presentati ...
 .. toctree::
 
    _docs/cap1.rst
-   _docs/cap2.rst
+  
