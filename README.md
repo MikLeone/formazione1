@@ -1,7 +1,7 @@
 Docs Italia, Fromazione
 ===================
 
-Questo repository contiene la documentazione relativa a [Docs italia (www.docs.italia.it). 
+Questo repository contiene la documentazione relativa a [Docs italia (www.docs.italia.it)]. 
 In particolare, qui viene trattato la formazione AGID.
 
 Link
